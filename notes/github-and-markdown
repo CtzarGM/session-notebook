@@ -17,3 +17,14 @@ Bold           **double-asterisks** or __double-underscores__
 Combined       **asterisks and _underscores_**
 Strikethrough  ~~double-tildes~~
 ```
+
+# Lists
+
+```
+1. Ordered
+2. List
+
+* Un
++ Ordered
+- List
+```
