@@ -1,20 +1,16 @@
 # Markdown
+---
+### Markdown Cheatsheet
 
-## Headers
+[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-```
-#       H1
-##      H2
-###     H3
-####    H4
-#####   H5
-######  H6
-```
 
 # Git & GitHub
+---
+### Cheatsheet
+[Git CheatSheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
-## How to roll back changes
-
+### How to roll back changes
  command | effect 
  --- | ---
  git branch -d branch_name | deletes the local branch_name
