@@ -27,3 +27,5 @@
 | `git branch`                 | list your branches                   |
 | `git branch -a`              | list all branches (local and remote) |
 | `git branch -d <branchname>` | delete a branch                      |
+
+[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
