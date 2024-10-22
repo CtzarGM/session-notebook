@@ -18,7 +18,7 @@
  git reset --hard commit_hash | deletes all recent commits untill the specified (not including) commit_hash
  git push --force | forcibly pushes all local changes to the remote repository
 
-### Git `branch` commands
+### Git branch commands
 
 | command                      | effect                               |
 | ---------------------------- | ------------------------------------ |
