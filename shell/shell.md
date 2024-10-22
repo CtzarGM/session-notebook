@@ -17,3 +17,7 @@
 | `open .`           | open the current folder in the finder                                      |
 | `cat <filename>`   | prints the content of a specific file                                      |
 | `curl <url>`       | prints the received content from the specified url. (try `curl ipinfo.io`) |
+
+- [Commands CheatSheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+- [Terminal basics](https://mrkaluzny.com/blog/terminal-101-getting-started-with-terminal/)
+- [Command line cheat sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
