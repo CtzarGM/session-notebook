@@ -1,4 +1,4 @@
-### CSS
+# CSS
 ---
 ## CSS syntax
 ![CSS syntax](https://github.com/spiced-academy/chicory-web-dev/blob/main/sessions/css-basics/assets/css-syntax.png)
