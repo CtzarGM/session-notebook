@@ -30,9 +30,3 @@
 ### Attributes
 - [Attribute References](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
-### Emmet
-Visual Studio Code has a useful tool called Emmet which lets you autocomplete a lot of code by just
-typing certain snippets and pressing the <kbd>Tab</kbd> key afterwards.
-
-[Emmet CheatSheet](https://coolcheatsheet.com/toolkit/emmet)
-
