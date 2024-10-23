@@ -93,3 +93,19 @@ of an element. There are four different parts: `content`, `padding`, `border` an
 | `margin`       | The space around the border and other elements.          |
 
 ![Box Model](https://github.com/spiced-academy/chicory-web-dev/blob/main/sessions/css-basics/assets/box-model.png)
+
+---
+
+## Linking Stylesheets
+
+To separate your HTML and CSS code, you can create a new file, like **styles.css** and link it to
+your HTML file by placing a `<link>` tag in the `<head>` of your HTML document.
+
+```html
+<head>
+  ...
+  <link rel="stylesheet" href="styles.css" />
+</head>
+```
+
+---
