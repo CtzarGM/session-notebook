@@ -109,3 +109,8 @@ your HTML file by placing a `<link>` tag in the `<head>` of your HTML document.
 ```
 
 ---
+## Useful Resources
+- [Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+- [CSS Tricks: Box-sizing](https://css-tricks.com/box-sizing/)
+- [Josh Comeau: Surprising truth about pixels and accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [rem/px calculator](https://nekocalc.com/de/px-zu-rem-umrechner)
