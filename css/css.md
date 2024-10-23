@@ -92,4 +92,4 @@ of an element. There are four different parts: `content`, `padding`, `border` an
 | `border`       | The border of the element.                               |
 | `margin`       | The space around the border and other elements.          |
 
-<img src="./assets/box-model.png" width="500" alt="Box model">
+![Box Model](https://github.com/spiced-academy/chicory-web-dev/blob/main/sessions/css-basics/assets/box-model.png)
